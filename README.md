@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/9c0ea1f4-9aa4-47a1-a3ec-cdaf96922a16)
 
-O projeto final completo encontra-se disponível no seguinte diretório: [/projeto-art-fusion](/https://github.com/software-concorrente-distribuido/art-attack/tree/main/projeto-art-fusion)
+O projeto final completo encontra-se disponível no seguinte diretório: [/projeto-art-fusion](https://github.com/software-concorrente-distribuido/art-attack)
 
 # 💻 Projeto - Art Fusion 
 
