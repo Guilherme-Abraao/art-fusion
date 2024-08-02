@@ -4,18 +4,17 @@ O projeto final completo encontra-se disponível no seguinte diretório: [/proje
 
 # 💻 Projeto - Art Fusion 
 
-### Escopo
+## Escopo
 
 O ArtFusion é uma plataforma online de criação colaborativa de arte, projetada para artistas de todas as habilidades e estilos. Com o ArtFusion, os usuários podem criar, colaborar e compartilhar obras de arte digital em tempo real, conectando-se com outros artistas em todo o mundo. Com uma interface intuitiva e uma variedade de ferramentas de desenho e pintura, a plataforma permite que os usuários expressem sua criatividade de maneira flexível e dinâmica.
 
 A plataforma ArtFusion oferecerá aos artistas a oportunidade de se conectar e colaborar com colegas de todo o mundo, ampliando suas perspectivas e inspirações. Ao explorar e colaborar em uma variedade de projetos de arte, os usuários podem encontrar inspiração constante e novas perspectivas criativas.
 
-Principais Funcionalidades:
-O foco inicial será na implementação das seguintes funcionalidades principais:
-Criação colaborativa de obras de arte em tempo real.
-Ferramentas de desenho e pintura intuitivas.
-Recursos para compartilhamento de obras de arte.
-
+## Principais Funcionalidades:
+- O foco inicial será na implementação das seguintes funcionalidades principais:
+- Criação colaborativa de obras de arte em tempo real.
+- Ferramentas de desenho e pintura intuitivas.
+- Recursos para compartilhamento de obras de arte.
 
 # 🚀 Tecnologias 
 
@@ -78,8 +77,6 @@ npm start
 ```
   
 - O servidor estará disponível no endereço http://localhost:3000
-
-
 
 # 👥 Equipe
 
